@@ -40,7 +40,7 @@ main_Multi_Classifier_System.m
 
 ### ROC
 
-![image](https://github.com/ycy1997alex/Intracranial-Hemorrhage-Detection/blob/main/MATLAB/Output/MCS_Testing_ROC.png) 
+![image](https://github.com/ycy1997alex/Intracranial-Hemorrhage-Detection/blob/main/MCS_Testing_ROC.png?raw=true) 
 
 ### Confusion Matrix
 
