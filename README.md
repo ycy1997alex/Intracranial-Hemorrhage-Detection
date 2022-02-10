@@ -38,6 +38,14 @@ main_testing_predict.m
 
 main_Multi_Classifier_System.m
 
+### ROC
+
+![](https://github.com/ycy1997alex/Intracranial-Hemorrhage-Detection/main/MATLAB/Output/MCS_Testing_ROC.png) 
+
+### Confusion Matrix
+
+![](https://github.com/ycy1997alex/Intracranial-Hemorrhage-Detection/main/MATLAB/Output/MCS_Testing_ConfusionMatrix.png) 
+
 # Picture Visualization
 
 To visualize one dicom file
